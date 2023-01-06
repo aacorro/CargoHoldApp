@@ -1,0 +1,11 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\bin\Debug\CargoHold.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\bin\Debug\CargoHold.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\bin\Debug\CargoHold.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\CargoHold\obj\Debug\CargoHold.pdb
